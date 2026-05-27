@@ -1,0 +1,24 @@
+{
+    "usuarios": {
+        "cris": {
+            "password": "124",
+            "saldo": 2.8500000000000094
+        }
+    },
+    "sesiones_activas": {
+        "6488003285": {
+            "usuario": "cris",
+            "fecha_login": "2026-05-26 13:56:16"
+        },
+        "8444068741": {
+            "usuario": "cris",
+            "fecha_login": "2026-05-26 16:10:36"
+        }
+    },
+    "keys_1d": [],
+    "keys_3d": [],
+    "keys_7d": [],
+    "keys_30d": [
+        "626262"
+    ]
+}
